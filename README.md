@@ -4,11 +4,11 @@
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
     alt="coding" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil1603&label=Profile%20views&color=0e75b6&style=flat"
-        alt="sushil1603" /> </p>
+        alt="asgar" /> </p>
 
 - 🌱 I’m proficient at **React, NEXTJS, HTML, CSS, JS, SCSS**
 - 📫 How to reach me **asgar2feb@gmail.com**
-- 👜 My Portfolio  <a href="https://Sushi03.github.io" target="_blank">asgar.github.io</a>
+- 👜 My Portfolio  <a href="https://Sushi03.github.io" target="_blank">https://asgar-portfolio-liart.vercel.app/</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
